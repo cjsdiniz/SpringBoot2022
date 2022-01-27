@@ -57,11 +57,12 @@ public class User {
         this.department = department;
     }
 
-    public User(Long id, String name, String email, Department department) {
-        this.id = id;
-        this.name = name;
-        this.email = email;
-        this.department = department;
+    public User() {
+    // public User(Long id, String name, String email, Department department) {
+        // this.id = id;
+        // this.name = name;
+        // this.email = email;
+        // this.department = department;
     }
 
 
