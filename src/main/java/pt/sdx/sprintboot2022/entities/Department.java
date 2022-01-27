@@ -1,4 +1,4 @@
-package pt.sdx.entities;
+package pt.sdx.sprintboot2022.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -7,7 +7,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name="tb_department")
+@Table(name = "tb_department")
 
 public class Department {
 

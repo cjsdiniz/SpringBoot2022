@@ -1,4 +1,4 @@
-package pt.sdx.entities;
+package pt.sdx.sprintboot2022.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -10,6 +10,7 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name="tb_user")
+
 public class User {
 
 
